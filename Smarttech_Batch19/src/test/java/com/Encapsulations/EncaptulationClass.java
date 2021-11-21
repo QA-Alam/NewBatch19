@@ -2,6 +2,12 @@ package com.Encapsulations;
 
 public class EncaptulationClass {
 	
+	
+	// What is Encapsulation in java 
+	
+	
+	
+	
 	private String name = "Automation Engineer";
 	private int salary = 100000;
 	
